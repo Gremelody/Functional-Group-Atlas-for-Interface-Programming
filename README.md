@@ -49,6 +49,7 @@ This repo focuses on the **machine-learning part of the workflow**: hierarchical
 
 ## 📂 Repository Structure and Workflow
 
+```
 .
 ├── Feature engineering-FGA.ipynb # Script A: Hierarchical feature engineering (Filter-Embedded-Wrapper)
 ├── Tree_stacking-FGA.ipynb # Script B: Hyperparameter optimization + Stacking + Evaluation/SHAP + Prediction
@@ -75,7 +76,7 @@ This repo focuses on the **machine-learning part of the workflow**: hierarchical
 ├── spec-file.txt # Exact Conda spec (Windows x64) for highest reproducibility
 ├── LICENSE # MIT License
 └── README.md
----
+```
 
 ## 🗺️ The Workflow
 

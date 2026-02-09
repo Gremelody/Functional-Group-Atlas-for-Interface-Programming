@@ -75,9 +75,6 @@ This repo focuses on the **machine-learning part of the workflow**: hierarchical
 ├── spec-file.txt # Exact Conda spec (Windows x64) for highest reproducibility
 ├── LICENSE # MIT License
 └── README.md
-.
-
-
 ---
 
 ## 🗺️ The Workflow

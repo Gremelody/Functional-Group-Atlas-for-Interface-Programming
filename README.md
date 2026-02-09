@@ -323,7 +323,6 @@ The code in this repository is released under the **MIT License** (see `LICENSE`
 
 For any inquiries or if you use this workflow in your research, please correspond with:  
 Prof. [Guangmin Zhou](mailto:guangminzhou@sz.tsinghua.edu.cn) 📧.
-📧 
 
 ---
 
